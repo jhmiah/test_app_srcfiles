@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Button1 As button:
         Height: =386
-        Text: ="BUTTON"
+        Text: ="BUTTON1"
         Width: =790
         X: =326
         Y: =156
